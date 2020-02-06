@@ -2,8 +2,8 @@ language: bash
 script:
   - pwd
 branches:
-only:
-- master
+  only:
+  - master
 
 before_deploy:
   # Set up git user name and tag this commit
