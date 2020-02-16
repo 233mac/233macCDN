@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5,3,7],{10:function(c,n,t){"use strict";var e={FE_API_V1:"apiv1",SERVER_API_V1:"/apiv1",APP:"/app",ARTICLE:"/article",CDN_PREFIX:"https://cdn.jsdelivr.net/gh/233mac/233macCDN"};n.a=e},68:function(c,n,t){"use strict";var e={DESCRIPTION:"精品 Mac 应用软件分享"};n.a=e}}]);
