@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5,3],{22:function(n,w,c){"use strict";var o={DESCRIPTION:"精品 Mac 应用软件分享"};w.a=o}}]);
